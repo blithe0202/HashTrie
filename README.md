@@ -1,2 +1,2 @@
 # HashTrie
-We present an efficiency-optimized functional HashTrie algorithm and mechanically validate it.Functional modeling and mechanistic verification of the algorithm is located in HashTrie.thy.
+We present an efficiency-optimized functional HashTrie algorithm and mechanically validate it.We introduce and mechanically validate an efficiency-optimized functional HashTrie method. HashTrie.thy contains the functional modeling and mechanical validation of the algorithm; HashTrie_TM.thy contains the temporal model and validation of the related time complexity; and Multi_Pattern_Matching.thy contains the work on selecting the Multi Pattern Matching algorithm as an example of the application.
